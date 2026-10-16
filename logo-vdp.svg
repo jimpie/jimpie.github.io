@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">VDP — Van der Poel</title>
+  <desc id="desc">Geometrisch monogram met de letters V, D en P in licht ivoor, met een zachtgroen accent.</desc>
+  <defs>
+    <linearGradient id="letters" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f6f4e9"/>
+      <stop offset="1" stop-color="#d9e7de"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="620" fill="#101c21"/>
+  <rect x="58" y="96" width="844" height="428" rx="44" fill="#17292d" stroke="#416158" stroke-width="2"/>
+  <path d="M131 202 218 423 305 202" fill="none" stroke="url(#letters)" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M357 202 V423 H428 C508 423 555 378 555 312.5 S508 202 428 202 Z" fill="none" stroke="url(#letters)" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M618 423 V202 H714 C783 202 821 235 821 289 S783 376 714 376 H618" fill="none" stroke="url(#letters)" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M344 477 H427 M533 477 H616" stroke="#6d947e" stroke-width="2"/>
+  <path d="m480 467 10 10-10 10-10-10z" fill="#d3f28e"/>
+</svg>
