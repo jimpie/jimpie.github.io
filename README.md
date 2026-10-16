@@ -10,4 +10,4 @@ python3 -m http.server 8000
 
 Open daarna `http://localhost:8000`.
 
-De DNS-records van `vanderpoel.org` zijn niet onderdeel van deze repository. Pas voor publicatie alleen de webrecords aan; laat de Google Workspace MX- en overige mailrecords ongemoeid.
+De DNS-records van `vanderpoel.org` zijn niet onderdeel van deze repository. Voor het `www`-adres hoort bij TransIP een `CNAME`-record met naam `www` en waarde `jimpie.github.io` te staan (in plaats van het oude `www`-A-record). Laat het apex-`A`-record, de Google Workspace MX-records en overige mailrecords ongemoeid.
